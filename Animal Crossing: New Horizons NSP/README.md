@@ -1,6 +1,4 @@
-from pathlib import Path
-
-content = """# Animal Crossing: New Horizons (NSP ROM)
+# Animal Crossing: New Horizons (NSP ROM)
 
 Animal Crossing: New Horizons is a life simulation game for Nintendo Switch. Start a new life on a deserted island, collect materials, craft useful items, decorate your home, and meet a variety of animal residents.
 
